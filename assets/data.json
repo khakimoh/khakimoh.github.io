@@ -1,0 +1,200 @@
+{
+  "cv": {
+    "american_style": "false",
+    "avatar_path": "../../../../../assets/images/prof.jpg",
+    "name": "Mohammad Khaki",
+    "job_title": "Ai developer",
+    "email": "khaki.moh97@gmail.com",
+    "linkedin_url": "https://www.linkedin.com/khaki",
+    "web_page_url": "https://github.com/khakimim",
+    "google_scholar_url": "https://scholar.google.com",
+    "tel": "+98 (935)777-9303",
+    "location": "Tehran,Iran",
+    "items": [{
+        "main_title": "summary",
+        "description": [{
+          "title": "",
+          "sub_title": ["Motivated Software Engineer With Over Two Years Of Experience Focusing On Smart Financial And Software Development Initiatives. I Always Think About Improving A System And Have Experimented With Many Modifications. I Recently Worked On A Paper About Developing A Smart Model For Market Investment."]
+        }]
+      },
+      {
+        "main_title": "Education",
+        "description": [{
+            "title": "Graduate",
+            "sub_title": ["M.Ed., Computer engineering (field: Artifitial intelligence), *, Tehran,iran", "*", "GPA: * (out of 4)"]
+          },
+          {
+            "title": "Undergraduate",
+            "sub_title": ["B.Sc., Software engineering, University of kashan, kashan,iran", "2021"]
+          }
+        ]
+      },
+      {
+        "main_title": "Work experience",
+        "description": [{
+            "title": "FreeLancer",
+            "sub_title": ["Full-Stack Developer", "November 2021 - Present"]
+          },
+          {
+            "title": "Yara Mobile",
+            "sub_title": ["Front-End Developer(Angular) | Intership", "July 2021 - October 2021"]
+          }
+        ]
+      },
+      {
+        "main_title": "Research Interests",
+        "description": [{
+            "title": "",
+            "sub_title": ["Research Interests 1"]
+          },
+          {
+            "title": "",
+            "sub_title": ["Research Interests 2"]
+          },
+          {
+            "title": "",
+            "sub_title": ["Research Interests 3"]
+          },
+          {
+            "title": "",
+            "sub_title": ["Research Interests 4"]
+          },
+          {
+            "title": "",
+            "sub_title": ["Research Interests 5"]
+          }
+        ]
+      },
+      {
+        "main_title": "Publications",
+        "description": [{
+            "title": "Journals",
+            "sub_title": ["M. Khaki, F. Dehghani, \"Regression data analysis to forecast user rate based on Zomato restaurant features with random forest,\" Periodicals of Engineering and Natural Sciences, vol. 9, no. 2, pp. 774-783, 2022. "]
+          },
+          {
+            "title": "Conferences",
+            "sub_title": ["*"]
+          }
+        ]
+      },
+      {
+        "main_title": "Awards & Honours",
+        "description": [{
+          "title": "",
+          "sub_title": ["*"]
+        }]
+      },
+      {
+        "main_title": "Language Skill",
+        "description": [{
+            "title": "Ielts:",
+            "sub_title": ["Overal: *"]
+          },
+          {
+            "title": "Tofel:",
+            "sub_title": ["Overal: *"]
+          },
+          {
+            "title": "GRE:",
+            "sub_title": ["Overal: *", "Verbal: *","Writing: *"]
+          },
+          {
+            "title": "Persian",
+            "sub_title": ["Native"]
+          }
+        ]
+      },
+      {
+        "main_title": "Skills",
+        "description": [{
+            "title": "Programming Language",
+            "sub_title": ["Python", "C++", "Ai Programming (Machine Learning)"]
+          },
+          {
+            "title": "Technical Knowledge",
+            "sub_title": ["RestApi", "Linux", "MySql DataBase", "Front-End Develpe (Html, Css, Sass, Js, Angular)", "Back-End Develpe (Django)"]
+          },
+          {
+            "title": "Softwares",
+            "sub_title": ["Microsoft Office (Word, Exel, PowerPoint)", "Latex", "Prezi Presentetion", "Visual Studio IDE", "Jupyte Notebook"]
+          }
+        ]
+      },
+      {
+        "main_title": "References",
+        "description": [{
+            "title": "Dr. name (Thesis Supervisor)",
+            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"]
+          },
+          {
+            "title": "Dr. name",
+            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"]
+          },
+          {
+            "title": "Dr. name",
+            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"]
+          }
+        ]
+      }
+    ]
+  },
+  "progress_skill": [{
+      "skill": "Python",
+      "value": 60
+    },
+    {
+      "skill": "Ai Programming",
+      "value": 100
+    },
+    {
+      "skill": "Web Develope",
+      "value": 60
+    },
+    {
+      "skill": "English Language Skill",
+      "value": 77
+    }
+  ],
+  "banner": {
+    "first_name": "Mohammad",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, aspernatur ab debitis cum, atque odit itaque cupiditate culpa veniam quasi beatae earum. Temporibus fuga quis quod pariatur! Neque, in magnam?"
+  },
+  "education": [{
+      "level": "High School",
+      "college": "Moallem",
+      "field": "Mathematic & Physics"
+    },
+    {
+      "level": "Undergraduate",
+      "college": "University of Kashan",
+      "field": "Computer Engineering (Software)"
+    },
+    {
+      "level": "Masters",
+      "college": "* University Of Technology",
+      "field": "Computer Engineering (Artificial Intelligence)"
+    }
+  ],
+  "about": {
+    "location": "Tehran, Iran",
+    "linkedin_url": "https://www.linkedin.com/khaki",
+    "telegram_url": "https://t.me/khaki_moh",
+    "email": "mimkhaki@gmail.com",
+    "about_me": "My name is Mohammad Khaki, a software engineer who was born in 1997 who has spent the last two years concentrating on innovative financial and software development projects. I am always considering new methods to enhance existing systems and have tried out a wide range of variations. Recently, I contributed to a paper that discussed the creation of a strategic model for investment in the market. If you need to get in touch with me, please use the email address down below."
+  },
+  "publication": {
+    "total_number": 2,
+    "article": [{
+      "title": "Regression data analysis to forecast user rate based on Zomato restaurant features with random forest.",
+      "refrence": "M. Khaki, F. Dehghani, Periodicals of Engineering and Natural Sciences, vol. 9, no. 2, pp. 774-783, 2022. ",
+      "journal_link": "#",
+      "abstract": "As social networks have grown, they have generated much information that can be used to guide people's decisions. In this paper, we looked at different parts of restaurants and how they affected how customers rated them overall.\n It used restaurant data from Zomato to help users find their favorite restaurants in new cities. The analyses have been done on eight features of two groups: \"quality and price\" and \"delivery.\" The restaurants use the random forest algorithm to score based on new and old data.\n The suggested method accurately ranked restaurants that have just opened with few users' comments. The model made here is 71% accurate when it comes to ranking.\n Additionally, this paper uses machine learning science to help restaurants improve their customer service by using this algorithm and paying more attention to the effective parameters here.  "
+    }]
+  },
+  "social_media": {
+    "github": "https://github.com/khakimim",
+    "linkedin": "https://www.linkedin.com/khaki",
+    "twitter": "https://twitter.com/khaki_mim",
+    "instagram": "http://instagram.com/khaki_mim"
+    }
+}
