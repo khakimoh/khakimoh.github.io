@@ -14,30 +14,35 @@
         "main_title": "summary",
         "description": [{
           "title": "",
-          "sub_title": ["Motivated Software Engineer With Over Two Years Of Experience Focusing On Smart Financial And Software Development Initiatives. I Always Think About Improving A System And Have Experimented With Many Modifications. I Recently Worked On A Paper About Developing A Smart Model For Market Investment."]
+          "sub_title": ["Motivated Software Engineer With Over Two Years Of Experience Focusing On Smart Financial And Software Development Initiatives. I Always Think About Improving A System And Have Experimented With Many Modifications. I Recently Worked On A Paper About Developing A Smart Model For Market Investment."],
+          "date":""
         }]
       },
       {
         "main_title": "Education",
         "description": [{
-            "title": "Graduate",
-            "sub_title": ["M.Ed., Computer engineering (field: Artifitial intelligence), *, Tehran,iran", "*", "GPA: * (out of 4)"]
+            "title": "M.Ed., Computer engineering | field: Artifitial intelligence, *",
+            "sub_title": ["Tehran,iran", "GPA: * (out of 4)"],
+            "date": "2024 - 2026"
           },
           {
-            "title": "Undergraduate",
-            "sub_title": ["B.Sc., Software engineering, University of kashan, kashan,iran", "2021"]
+            "title": "B.Sc., Software engineering, University of kashan",
+            "sub_title": ["kashan,iran"],
+            "date": "2017 - 2021"
           }
         ]
       },
       {
         "main_title": "Work experience",
         "description": [{
-            "title": "FreeLancer",
-            "sub_title": ["Full-Stack Developer", "November 2021 - Present"]
+            "title": "Full-Stack Developer",
+            "sub_title": ["Tehran,Iran","FreeLancer"],
+            "date": "November 2021 - Present"
           },
           {
-            "title": "Yara Mobile",
-            "sub_title": ["Front-End Developer(Angular) | Intership", "July 2021 - October 2021"]
+            "title": "Front-End Developer(Angular) | Yara Mobile",
+            "sub_title": ["Tehran,Iran","Intership"],
+            "date": "July 2021 - October 2021"
           }
         ]
       },
@@ -45,23 +50,28 @@
         "main_title": "Research Interests",
         "description": [{
             "title": "",
-            "sub_title": ["Research Interests 1"]
+            "sub_title": ["Research Interests 1"],
+            "date":""
           },
           {
             "title": "",
-            "sub_title": ["Research Interests 2"]
+            "sub_title": ["Research Interests 2"],
+            "date":""
           },
           {
             "title": "",
-            "sub_title": ["Research Interests 3"]
+            "sub_title": ["Research Interests 3"],
+            "date":""
           },
           {
             "title": "",
-            "sub_title": ["Research Interests 4"]
+            "sub_title": ["Research Interests 4"],
+            "date":""
           },
           {
             "title": "",
-            "sub_title": ["Research Interests 5"]
+            "sub_title": ["Research Interests 5"],
+            "date":""
           }
         ]
       },
@@ -69,11 +79,13 @@
         "main_title": "Publications",
         "description": [{
             "title": "Journals",
-            "sub_title": ["M. Khaki, F. Dehghani, \"Regression data analysis to forecast user rate based on Zomato restaurant features with random forest,\" Periodicals of Engineering and Natural Sciences, vol. 9, no. 2, pp. 774-783, 2022. "]
+            "sub_title": ["M. Khaki, F. Dehghani, \"Regression data analysis to forecast user rate based on Zomato restaurant features with random forest,\" Periodicals of Engineering and Natural Sciences, vol. 9, no. 2, pp. 774-783, 2022. "],
+            "date":""
           },
           {
             "title": "Conferences",
-            "sub_title": ["*"]
+            "sub_title": ["*"],
+            "date":""
           }
         ]
       },
@@ -81,26 +93,31 @@
         "main_title": "Awards & Honours",
         "description": [{
           "title": "",
-          "sub_title": ["*"]
+          "sub_title": ["*"],
+          "date":""
         }]
       },
       {
         "main_title": "Language Skill",
         "description": [{
             "title": "Ielts:",
-            "sub_title": ["Overal: *"]
+            "sub_title": ["Overal: *"],
+            "date":""
           },
           {
             "title": "Tofel:",
-            "sub_title": ["Overal: *"]
+            "sub_title": ["Overal: *"],
+            "date":""
           },
           {
             "title": "GRE:",
-            "sub_title": ["Overal: *", "Verbal: *","Writing: *"]
+            "sub_title": ["Overal: *", "Verbal: *","Writing: *"],
+            "date":""
           },
           {
             "title": "Persian",
-            "sub_title": ["Native"]
+            "sub_title": ["Native"],
+            "date":""
           }
         ]
       },
@@ -108,15 +125,18 @@
         "main_title": "Skills",
         "description": [{
             "title": "Programming Language",
-            "sub_title": ["Python", "C++", "Ai Programming (Machine Learning)"]
+            "sub_title": ["Python", "C++", "Ai Programming (Machine Learning)"],
+            "date":""
           },
           {
             "title": "Technical Knowledge",
-            "sub_title": ["RestApi", "Linux", "MySql DataBase", "Front-End Develpe (Html, Css, Sass, Js, Angular)", "Back-End Develpe (Django)"]
+            "sub_title": ["RestApi", "Linux", "MySql DataBase", "Front-End Develpe (Html, Css, Sass, Js, Angular)", "Back-End Develpe (Django)"],
+            "date":""
           },
           {
             "title": "Softwares",
-            "sub_title": ["Microsoft Office (Word, Exel, PowerPoint)", "Latex", "Prezi Presentetion", "Visual Studio IDE", "Jupyte Notebook"]
+            "sub_title": ["Microsoft Office (Word, Exel, PowerPoint)", "Latex", "Prezi Presentetion", "Visual Studio IDE", "Jupyte Notebook"],
+            "date":""
           }
         ]
       },
@@ -124,15 +144,18 @@
         "main_title": "References",
         "description": [{
             "title": "Dr. name (Thesis Supervisor)",
-            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"]
+            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"],
+            "date":""
           },
           {
             "title": "Dr. name",
-            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"]
+            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"],
+            "date":""
           },
           {
             "title": "Dr. name",
-            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"]
+            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"],
+            "date":""
           }
         ]
       }

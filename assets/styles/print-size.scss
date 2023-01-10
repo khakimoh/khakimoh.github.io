@@ -1,0 +1,44 @@
+@media print {
+  .g-col-2-1 {
+    grid-template-columns: 7fr 4fr;
+  }
+
+  .g-col-3-1 {
+    grid-template-columns: 3fr 1fr;
+  }
+
+  .page-number {
+    display: inline-flex !important;
+  }
+
+  .content-bar {
+    color: black;
+  }
+
+  div.icon-info,
+  .name {
+    color: black;
+  }
+
+  .resume .date {
+    text-align: right !important;
+    list-style: none !important;
+  }
+
+  .content-bar {
+    color: black;
+  }
+
+  div.icon-info,
+  .name {
+    color: black;
+  }
+
+  .cv-background {
+    // background-color: darkgray;
+    background-image: url('../images/background-texture.jpg') !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+}

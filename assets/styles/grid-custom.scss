@@ -10,6 +10,14 @@
   grid-template-columns: 1fr;
 }
 
+.g-col-3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.g-col-3-1{
+  grid-template-columns: 1fr;
+}
+
 .g-col-2-1 {
   grid-template-columns: 1fr;
 }
@@ -20,6 +28,9 @@
 @media only screen and (min-width: 768px) {
   .g-col-2-1 {
     grid-template-columns: 6fr 5fr;
+  }
+  .g-col-3-1{
+    grid-template-columns: 3fr 1fr;
   }
 }
 
@@ -33,8 +44,4 @@
   }
 }
 
-@media print {
-  .g-col-2-1 {
-    grid-template-columns: 7fr 4fr;
-  }
-}
+

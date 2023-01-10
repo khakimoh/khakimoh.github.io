@@ -4,7 +4,7 @@ ul.time-line {
   padding-left: 1.25rem;
   margin-bottom: 0.5rem;
 
-  li {
+  &>li {
     list-style: none;
     margin: auto;
     min-height: 50px;
@@ -21,8 +21,8 @@ ul.time-line {
 
     p {
       font-weight: normal;
-      padding-left: $base-space;
       margin: 0px;
+      margin-left: $base-space*4;
       text-transform: capitalize;
     }
 
