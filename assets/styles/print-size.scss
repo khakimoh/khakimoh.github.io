@@ -1,4 +1,8 @@
 @media print {
+  html {
+    font-size: 0.67rem;
+  }
+
   .g-col-2-1 {
     grid-template-columns: 7fr 4fr;
   }
@@ -16,8 +20,9 @@
   }
 
   div.icon-info,
+  div.icon-info > span > a,
   .name {
-    color: black;
+    color: black !important;
   }
 
   .resume .date {
@@ -25,18 +30,9 @@
     list-style: none !important;
   }
 
-  .content-bar {
-    color: black;
-  }
-
-  div.icon-info,
-  .name {
-    color: black;
-  }
-
   .cv-background {
     // background-color: darkgray;
-    background-image: url('../images/background-texture.jpg') !important;
+    background-image: url("../images/background-texture.jpg") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;

@@ -1,19 +1,19 @@
-@import './variable.scss';
+@import "./variable.scss";
 
 ul.time-line {
   padding-left: 1.25rem;
   margin-bottom: 0.5rem;
 
-  &>li {
+  & > li {
     list-style: none;
     margin: auto;
     min-height: 50px;
     border-left: 1px dashed $base-color-completed;
     position: relative;
-    padding-left: $base-space*4;
-    padding-bottom: $base-space*3;
+    padding-left: $base-space * 4;
+    padding-bottom: $base-space * 2;
 
-    h4 {
+    h5 {
       font-weight: bold;
       text-transform: capitalize;
       margin-bottom: 0.2rem;
@@ -22,7 +22,7 @@ ul.time-line {
     p {
       font-weight: normal;
       margin: 0px;
-      margin-left: $base-space*4;
+      margin-left: $base-space * 4;
       text-transform: capitalize;
     }
 
@@ -40,15 +40,15 @@ ul.time-line {
       border: 6px solid $base-color-completed;
       border-radius: 50%;
       background: darken($base-color-completed, 15%);
-      height: $base-space*5;
-      width: $base-space*5;
+      height: $base-space * 5;
+      width: $base-space * 5;
     }
   }
 }
 
 ul.horizontal {
   display: grid;
-  grid-gap: $base-space*3;
+  grid-gap: $base-space * 3;
   grid-template-columns: 1fr 1fr 1fr;
 
   li {

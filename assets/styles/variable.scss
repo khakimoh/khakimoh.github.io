@@ -1,6 +1,9 @@
 $base-color: hsla(199, 50%, 40%,100%);
+// 203, 48%, 44%
+// 90, 8%, 85%
+
 $base-white: hsla(0, 0%, 100%, 0.70);
-$background-body: hsla(200, 11%, 9%,100%) ;
+$background-body: #000000 ;
 
 
 $base-color-completed: transparentize(desaturate(lighten($base-color, 30%),25%),0.1);

@@ -5,184 +5,197 @@
     "name": "Mohammad Khaki",
     "job_title": "Ai developer",
     "email": "khaki.moh97@gmail.com",
-    "linkedin_url": "https://www.linkedin.com/khaki",
-    "web_page_url": "https://github.com/khakimim",
+    "linkedin_url": "https://www.linkedin.com/in/mohammad-khaki/?utm_source=share&utm_campaign=share_via&utm_content=profile",
+    "web_page_url": "https://github.com/khakimoh",
     "google_scholar_url": "https://scholar.google.com",
     "tel": "+98 (935)777-9303",
     "location": "Tehran,Iran",
-    "items": [{
+    "items": [
+      {
         "main_title": "summary",
-        "description": [{
-          "title": "",
-          "sub_title": ["Motivated Software Engineer With Over Two Years Of Experience Focusing On Smart Financial And Software Development Initiatives. I Always Think About Improving A System And Have Experimented With Many Modifications. I Recently Worked On A Paper About Developing A Smart Model For Market Investment."],
-          "date":""
-        }]
+        "description": [
+          {
+            "title": "",
+            "sub_title": [
+              "Innovative Artificial Intelligence engineer seeks a master's position to apply expertise in developing cutting-edge AI solutions. Committed to deep reinforcement learning, data analysis, and time series prediction, with an ability to improve AI systems."
+            ],
+            "date": ""
+          }
+        ]
       },
       {
         "main_title": "Education",
-        "description": [{
-            "title": "M.Ed., Computer engineering | field: Artifitial intelligence, *",
-            "sub_title": ["Tehran,iran", "GPA: * (out of 4)"],
-            "date": "2024 - 2026"
+        "description": [
+          {
+            "title": "M.S., Computer engineering ( field: Artifitial intelligence)",
+            "sub_title": [
+              "Iran University of Science and Technology",
+              "Tehran,iran"
+            ],
+            "date": "2024 - present"
           },
           {
-            "title": "B.Sc., Software engineering, University of kashan",
-            "sub_title": ["kashan,iran"],
+            "title": "B.Sc., Software engineering",
+            "sub_title": ["University of kashan", "kashan,iran"],
             "date": "2017 - 2021"
           }
         ]
       },
       {
         "main_title": "Work experience",
-        "description": [{
-            "title": "Full-Stack Developer",
-            "sub_title": ["Tehran,Iran","FreeLancer"],
-            "date": "November 2021 - Present"
+        "description": [
+          {
+            "title": "Researcher",
+            "sub_title": ["Tehran,Iran"],
+            "date": "November 2022 - Present"
+          },
+          {
+            "title": "Web Developer",
+            "sub_title": ["Tehran,Iran", "FreeLancer"],
+            "date": "November 2021 - November 2022"
           },
           {
             "title": "Front-End Developer(Angular) | Yara Mobile",
-            "sub_title": ["Tehran,Iran","Intership"],
+            "sub_title": ["Tehran,Iran", "Intership"],
             "date": "July 2021 - October 2021"
           }
         ]
       },
       {
         "main_title": "Research Interests",
-        "description": [{
-            "title": "",
-            "sub_title": ["Research Interests 1"],
-            "date":""
+        "description": [
+          {
+            "title": "Deep Reinforcement Learning",
+            "sub_title": ["Focused on Q-learning and policy gradient methods."],
+            "date": ""
           },
           {
-            "title": "",
-            "sub_title": ["Research Interests 2"],
-            "date":""
+            "title": "Data Analysis",
+            "sub_title": [
+              "Specializing in computational intelligence ,  anomaly detection."
+            ],
+            "date": ""
           },
           {
-            "title": "",
-            "sub_title": ["Research Interests 3"],
-            "date":""
+            "title": "Time Series Prediction",
+            "sub_title": [
+              "Focused on forecasting and modeling temporal data for improved accuracy in predictions."
+            ],
+            "date": ""
           },
           {
-            "title": "",
-            "sub_title": ["Research Interests 4"],
-            "date":""
-          },
-          {
-            "title": "",
-            "sub_title": ["Research Interests 5"],
-            "date":""
+            "title": "Neuroscience",
+            "sub_title": [
+              "Exploring AI applications in cognitive and neural science, with a focus on Hereditary and Environmental Disorders."
+            ],
+            "date": ""
           }
         ]
       },
       {
         "main_title": "Publications",
-        "description": [{
-            "title": "Journals",
-            "sub_title": ["M. Khaki, F. Dehghani, \"Regression data analysis to forecast user rate based on Zomato restaurant features with random forest,\" Periodicals of Engineering and Natural Sciences, vol. 9, no. 2, pp. 774-783, 2022. "],
-            "date":""
-          },
+        "description": [
           {
-            "title": "Conferences",
-            "sub_title": ["*"],
-            "date":""
+            "title": "Journals",
+            "sub_title": [
+              "M. Khaki, F. Dehghani, \"Unveiling Latent Structures: Personalized Restaurant Recommendations via Machine Learning,\" International Journal of Artificial Intelligence.(Under Review)"
+            ],
+            "date": ""
           }
         ]
       },
       {
         "main_title": "Awards & Honours",
-        "description": [{
-          "title": "",
-          "sub_title": ["*"],
-          "date":""
-        }]
+        "description": [
+          {
+            "title": "",
+            "sub_title": [
+              "Ranked in the Top 5% out of 14,000 applicants in the Iranian National University Entrance Exam (Konkur), Master's in Computer Engineering (2024)"
+            ],
+            "date": ""
+          }
+        ]
       },
       {
         "main_title": "Language Skill",
-        "description": [{
-            "title": "Ielts:",
-            "sub_title": ["Overal: *"],
-            "date":""
-          },
+        "description": [
           {
-            "title": "Tofel:",
-            "sub_title": ["Overal: *"],
-            "date":""
-          },
-          {
-            "title": "GRE:",
-            "sub_title": ["Overal: *", "Verbal: *","Writing: *"],
-            "date":""
+            "title": "English:",
+            "sub_title": ["Intermediate"],
+            "date": ""
           },
           {
             "title": "Persian",
             "sub_title": ["Native"],
-            "date":""
+            "date": ""
           }
         ]
       },
       {
         "main_title": "Skills",
-        "description": [{
+        "description": [
+          {
             "title": "Programming Language",
-            "sub_title": ["Python", "C++", "Ai Programming (Machine Learning)"],
-            "date":""
+            "sub_title": ["Python", "C++"],
+            "date": ""
+          },
+          {
+            "title": "AI Frameworks and Tools",
+            "sub_title": [
+              "Machine Learning (NumPy, Pandas, Scikit-learn)",
+              "Deep Learning (TensorFlow, PyTorch)",
+              "Reinforcement Learning (Q-Learning, Policy Gradient Methods)"
+            ],
+            "date": ""
           },
           {
             "title": "Technical Knowledge",
-            "sub_title": ["RestApi", "Linux", "MySql DataBase", "Front-End Develpe (Html, Css, Sass, Js, Angular)", "Back-End Develpe (Django)"],
-            "date":""
+            "sub_title": [
+              "REST API Development",
+              "Linux Environment",
+              "MySQL Database Management",
+              "Web Development (HTML, CSS, Sass, JavaScript, Angular, Django)"
+            ],
+            "date": ""
           },
           {
-            "title": "Softwares",
-            "sub_title": ["Microsoft Office (Word, Exel, PowerPoint)", "Latex", "Prezi Presentetion", "Visual Studio IDE", "Jupyte Notebook"],
-            "date":""
-          }
-        ]
-      },
-      {
-        "main_title": "References",
-        "description": [{
-            "title": "Dr. name (Thesis Supervisor)",
-            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"],
-            "date":""
-          },
-          {
-            "title": "Dr. name",
-            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"],
-            "date":""
-          },
-          {
-            "title": "Dr. name",
-            "sub_title": ["Department of *, University of *", "E-mail: *@gmail.com"],
-            "date":""
+            "title": "Software and Productivity Tools",
+            "sub_title": [
+              "Microsoft Office Suite (Word, Exel, PowerPoint)",
+              "LaTeX for Scientific Writing",
+              "Visual Studio IDE",
+              "Jupyter Notebook for Data Science"
+            ],
+            "date": ""
           }
         ]
       }
     ]
   },
-  "progress_skill": [{
+  "progress_skill": [
+    {
       "skill": "Python",
-      "value": 60
+      "value": 70
     },
     {
       "skill": "Ai Programming",
-      "value": 100
+      "value": 80
     },
     {
       "skill": "Web Develope",
-      "value": 60
+      "value": 50
     },
     {
       "skill": "English Language Skill",
-      "value": 77
+      "value": 54
     }
   ],
   "banner": {
     "first_name": "Mohammad",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, aspernatur ab debitis cum, atque odit itaque cupiditate culpa veniam quasi beatae earum. Temporibus fuga quis quod pariatur! Neque, in magnam?"
+    "description": "AI Developer specializing in Python, machine learning, and deep learning. Passionate about using AI to solve complex problems and drive positive impact."
   },
-  "education": [{
+  "education": [
+    {
       "level": "High School",
       "college": "Moallem",
       "field": "Mathematic & Physics"
@@ -194,30 +207,32 @@
     },
     {
       "level": "Masters",
-      "college": "* University Of Technology",
+      "college": "Iran University of Science and Technology",
       "field": "Computer Engineering (Artificial Intelligence)"
     }
   ],
   "about": {
     "location": "Tehran, Iran",
-    "linkedin_url": "https://www.linkedin.com/khaki",
+    "linkedin_url": "https://www.linkedin.com/in/mohammad-khaki/?utm_source=share&utm_campaign=share_via&utm_content=profile",
     "telegram_url": "https://t.me/khaki_moh",
     "email": "mimkhaki@gmail.com",
-    "about_me": "My name is Mohammad Khaki, a software engineer who was born in 1997 who has spent the last two years concentrating on innovative financial and software development projects. I am always considering new methods to enhance existing systems and have tried out a wide range of variations. Recently, I contributed to a paper that discussed the creation of a strategic model for investment in the market. If you need to get in touch with me, please use the email address down below."
+    "about_me": "I'm Mohammad Khaki, an innovative Artificial Intelligence Developer with a passion for crafting cutting-edge solutions that drive positive impact. I'm proficient in Python, machine learning, deep reinforcement learning, and data science, with experience in applying AI to financial market research. I'm committed to solving complex problems through AI. Let's connect and explore opportunities for collaboration."
   },
   "publication": {
-    "total_number": 2,
-    "article": [{
-      "title": "Regression data analysis to forecast user rate based on Zomato restaurant features with random forest.",
-      "refrence": "M. Khaki, F. Dehghani, Periodicals of Engineering and Natural Sciences, vol. 9, no. 2, pp. 774-783, 2022. ",
-      "journal_link": "#",
-      "abstract": "As social networks have grown, they have generated much information that can be used to guide people's decisions. In this paper, we looked at different parts of restaurants and how they affected how customers rated them overall.\n It used restaurant data from Zomato to help users find their favorite restaurants in new cities. The analyses have been done on eight features of two groups: \"quality and price\" and \"delivery.\" The restaurants use the random forest algorithm to score based on new and old data.\n The suggested method accurately ranked restaurants that have just opened with few users' comments. The model made here is 71% accurate when it comes to ranking.\n Additionally, this paper uses machine learning science to help restaurants improve their customer service by using this algorithm and paying more attention to the effective parameters here.  "
-    }]
+    "total_number": 1,
+    "article": [
+      {
+        "title": "Unveiling Latent Structures: Personalized Restaurant Recommendations via Machine Learning.",
+        "refrence": "M. Khaki, F. Dehghani, International Journal of Artificial Intelligence™ (ISSN 0974-0635). ",
+        "journal_link": "#",
+        "abstract": "Social media provides a wealth of information for decision-making, especially for finding restaurants in unfamiliar areas. This study leverages Zomato restaurant data to unveil latent structures and hidden patterns within the data that influence customer ratings. By incorporating machine learning, we create a personalized recommendation system to guide users towards their ideal dining experience. To overcome the limitations of raw data, we employ a multi-step approach. Clustering algorithms unveil hidden patterns (latent structures) in user preferences and restaurant attributes. These structures improve the accuracy of our classification models, addressing the challenge of complex relationships between seemingly unrelated data points.\n Our findings highlight the effectiveness of the Random Forest classification algorithm. Applied after the multi-step approach that unveils latent structures, it achieves a remarkable 90% accuracy rate. This success is demonstrably linked to uncovering hidden patterns in user preferences and restaurant attributes through clustering. These structures allow the Random Forest model to make more precise classifications, ultimately leading to a superior recommendation system. Notably, most errors involve misclassifications between similar restaurant types, which is acceptable in this context due to the inherent overlap in user preferences for these categories."
+      }
+    ]
   },
   "social_media": {
-    "github": "https://github.com/khakimim",
-    "linkedin": "https://www.linkedin.com/khaki",
-    "twitter": "https://twitter.com/khaki_mim",
+    "github": "https://github.com/khakimoh",
+    "linkedin": "https://www.linkedin.com/in/mohammad-khaki/?utm_source=share&utm_campaign=share_via&utm_content=profile",
+    "twitter": "#",
     "instagram": "http://instagram.com/khaki_mim"
-    }
+  }
 }
