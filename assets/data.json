@@ -3,7 +3,7 @@
     "american_style": "false",
     "avatar_path": "../../../../../assets/images/prof.jpg",
     "name": "Mohammad Khaki",
-    "job_title": "Ai developer",
+    "job_title": "AI Engineer",
     "email": "khaki.moh97@gmail.com",
     "linkedin_url": "https://www.linkedin.com/in/mohammad-khaki/?utm_source=share&utm_campaign=share_via&utm_content=profile",
     "web_page_url": "https://github.com/khakimoh",
@@ -12,12 +12,27 @@
     "location": "Tehran,Iran",
     "items": [
       {
+        "main_title": "contact information",
+        "description": [
+          {
+            "title": "",
+            "sub_title": ["Email: khaki.moh97@gmail.com"],
+            "date": ""
+          },
+          {
+            "title": "",
+            "sub_title": ["Tel: +98 (935)777-9303"],
+            "date": ""
+          }
+        ]
+      },
+      {
         "main_title": "summary",
         "description": [
           {
             "title": "",
             "sub_title": [
-              "Innovative Artificial Intelligence engineer seeks a master's position to apply expertise in developing cutting-edge AI solutions. Committed to deep reinforcement learning, data analysis, and time series prediction, with an ability to improve AI systems."
+              "Highly motivated AI Engineer in Natural Language Processing (NLP), Deep Reinforcement Learning, Data Analysis, and Time Series Prediction. Currently pursuing a Master's in Computer Engineering (AI Specialization), with a keen interest in applying advanced AI models to predict market trends and Reduce investment risks in the financial sector. Eager to leverage AI skills in real-world applications and contribute to innovative AI-driven solutions."
             ],
             "date": ""
           }
@@ -27,16 +42,16 @@
         "main_title": "Education",
         "description": [
           {
-            "title": "M.S., Computer engineering ( field: Artifitial intelligence)",
+            "title": "M.S., Computer engineering",
             "sub_title": [
-              "Iran University of Science and Technology",
-              "Tehran,iran"
+              "AI Specialization",
+              "Iran University of Science and Technology, Tehran, iran"
             ],
             "date": "2024 - present"
           },
           {
-            "title": "B.Sc., Software engineering",
-            "sub_title": ["University of kashan", "kashan,iran"],
+            "title": "B.Sc., Computer engineering",
+            "sub_title": ["Software", "University of kashan, kashan, iran"],
             "date": "2017 - 2021"
           }
         ]
@@ -46,17 +61,17 @@
         "description": [
           {
             "title": "Researcher",
-            "sub_title": ["Tehran,Iran"],
+            "sub_title": ["Tehran, Iran"],
             "date": "November 2022 - Present"
           },
           {
             "title": "Web Developer",
-            "sub_title": ["Tehran,Iran", "FreeLancer"],
+            "sub_title": ["Freelancer, Tehran, Iran"],
             "date": "November 2021 - November 2022"
           },
           {
-            "title": "Front-End Developer(Angular) | Yara Mobile",
-            "sub_title": ["Tehran,Iran", "Intership"],
+            "title": "Front-End Developer(Angular) | Intership",
+            "sub_title": ["Yara Mobile, Tehran, Iran"],
             "date": "July 2021 - October 2021"
           }
         ]
@@ -65,28 +80,37 @@
         "main_title": "Research Interests",
         "description": [
           {
+            "title": "Natural Language Processing",
+            "sub_title": [
+              "Focused on applying NLP techniques to analyze unstructured data, particularly in the financial and medical sectors."
+            ],
+            "date": ""
+          },
+          {
             "title": "Deep Reinforcement Learning",
-            "sub_title": ["Focused on Q-learning and policy gradient methods."],
+            "sub_title": [
+              "Focused on Q-Learning and Policy Gradient methods for solving complex decision-making problems."
+            ],
             "date": ""
           },
           {
             "title": "Data Analysis",
             "sub_title": [
-              "Specializing in computational intelligence ,  anomaly detection."
+              "Focused on anomaly detection and leveraging computational intelligence to identify outliers in large datasets."
             ],
             "date": ""
           },
           {
             "title": "Time Series Prediction",
             "sub_title": [
-              "Focused on forecasting and modeling temporal data for improved accuracy in predictions."
+              "Developing models to enhance forecasting accuracy for financial and temporal data."
             ],
             "date": ""
           },
           {
             "title": "Neuroscience",
             "sub_title": [
-              "Exploring AI applications in cognitive and neural science, with a focus on Hereditary and Environmental Disorders."
+              "Exploring the intersection of AI and neuroscience, particularly in diagnosing hereditary and environmental cognitive disorders."
             ],
             "date": ""
           }
@@ -110,7 +134,40 @@
           {
             "title": "",
             "sub_title": [
-              "Ranked in the Top 5% out of 14,000 applicants in the Iranian National University Entrance Exam (Konkur), Master's in Computer Engineering (2024)"
+              "Ranked in the top 5% out of 14,000 applicants in the Iranian National University Entrance Exam (Konkur), Master's in Computer Engineering (2024)"
+            ],
+            "date": ""
+          }
+        ]
+      },
+      {
+        "main_title": "Skills",
+        "description": [
+          {
+            "title": "Programming Language",
+            "sub_title": ["Python (Proficient)", "C++"],
+            "date": ""
+          },
+          {
+            "title": "AI Frameworks and Tools",
+            "sub_title": [
+              "Machine Learning (NumPy, Pandas, Scikit-learn, Jupyter Notebooks) (Proficient)",
+              "Deep Learning (PyTorch) (In Progress)",
+              "Reinforcement Learning (Q-Learning, Policy Gradient Methods)"
+            ],
+            "date": ""
+          },
+          {
+            "title": "Technical Knowledge",
+            "sub_title": ["REST API Development", "MySQL Database Management"],
+            "date": ""
+          },
+          {
+            "title": "Software and Productivity Tools",
+            "sub_title": [
+              "Microsoft Office Suite (Word, Exel, PowerPoint)",
+              "LaTeX",
+              "Visual Studio IDE"
             ],
             "date": ""
           }
@@ -121,51 +178,12 @@
         "description": [
           {
             "title": "English:",
-            "sub_title": ["Intermediate"],
+            "sub_title": ["Intermediate (B1)"],
             "date": ""
           },
           {
             "title": "Persian",
             "sub_title": ["Native"],
-            "date": ""
-          }
-        ]
-      },
-      {
-        "main_title": "Skills",
-        "description": [
-          {
-            "title": "Programming Language",
-            "sub_title": ["Python", "C++"],
-            "date": ""
-          },
-          {
-            "title": "AI Frameworks and Tools",
-            "sub_title": [
-              "Machine Learning (NumPy, Pandas, Scikit-learn)",
-              "Deep Learning (TensorFlow, PyTorch)",
-              "Reinforcement Learning (Q-Learning, Policy Gradient Methods)"
-            ],
-            "date": ""
-          },
-          {
-            "title": "Technical Knowledge",
-            "sub_title": [
-              "REST API Development",
-              "Linux Environment",
-              "MySQL Database Management",
-              "Web Development (HTML, CSS, Sass, JavaScript, Angular, Django)"
-            ],
-            "date": ""
-          },
-          {
-            "title": "Software and Productivity Tools",
-            "sub_title": [
-              "Microsoft Office Suite (Word, Exel, PowerPoint)",
-              "LaTeX for Scientific Writing",
-              "Visual Studio IDE",
-              "Jupyter Notebook for Data Science"
-            ],
             "date": ""
           }
         ]
