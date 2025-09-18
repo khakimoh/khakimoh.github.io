@@ -5,11 +5,11 @@
     "name": "Mohammad Khaki",
     "job_title": "AI Engineer",
     "email": "khaki.moh97@gmail.com",
-    "linkedin_url": "www.linkedin.com/in/mohammad-khaki",
-    "web_page_url": "https://khakimoh.github.io",
+    "linkedin_url": "https://www.linkedin.com/in/mohammad-khaki/?utm_source=share&utm_campaign=share_via&utm_content=profile",
+    "web_page_url": "https://github.com/khakimoh",
     "google_scholar_url": "https://scholar.google.com",
     "tel": "+98 (935)777-9303",
-    "location": "Tehran,Iran ",
+    "location": "Tehran,Iran",
     "items": [
       {
         "main_title": "contact information",
@@ -32,7 +32,7 @@
           {
             "title": "",
             "sub_title": [
-              "Highly motivated AI Engineer in Natural Language Processing (NLP), Deep Reinforcement Learning, Data Analysis, and Time Series Prediction. Currently pursuing a Master's in Computer Engineering (AI Specialization), with a keen interest in applying advanced AI models to predict market trends and Reduce investment risks in the financial sector. Eager to leverage AI skills in real-world applications and contribute to innovative AI-driven solutions."
+              "Highly motivated AI Engineer in Deep Reinforcement Learning, Data Analysis, and Time Series Prediction. Currently pursuing a Master's in Computer Engineering (AI Specialization), with a keen interest in applying advanced AI models to predict market trends and Reduce investment risks in the financial sector. Eager to leverage AI skills in real-world applications and contribute to innovative AI-driven solutions."
             ],
             "date": ""
           }
@@ -42,7 +42,7 @@
         "main_title": "Education",
         "description": [
           {
-            "title": "M.S., Artificial intelligence",
+            "title": "M.S., Computer engineering",
             "sub_title": [
               "AI Specialization",
               "Iran University of Science and Technology, Tehran, iran"
@@ -59,11 +59,6 @@
       {
         "main_title": "Work experience",
         "description": [
-          {
-            "title": "Teacher Assistant of Multi-Modal Large Language",
-            "sub_title": ["IUST"],
-            "date": "September 2025 - Present"
-          },
           {
             "title": "Researcher",
             "sub_title": ["Tehran, Iran"],
@@ -85,23 +80,9 @@
         "main_title": "Research Interests",
         "description": [
           {
-            "title": "Explainability (XAI)",
+            "title": "Deep Reinforcement Learning",
             "sub_title": [
-              "Investigating methods for explainability in AI systems, with emphasis on separating formal reasoning from content reasoning to improve transparency and trust."
-            ],
-            "date": ""
-          },
-          {
-            "title": "Natural Language Processing",
-            "sub_title": [
-              "Focused on applying NLP techniques to analyze unstructured data, particularly in the financial and medical sectors."
-            ],
-            "date": ""
-          },
-          {
-            "title": "Knowledge Distillation",
-            "sub_title": [
-              "Exploring model compression and distillation techniques to transfer knowledge from large models to efficient, lightweight systems."
+              "Focused on Q-Learning and Policy Gradient methods for solving complex decision-making problems."
             ],
             "date": ""
           },
@@ -118,6 +99,13 @@
               "Developing models to enhance forecasting accuracy for financial and temporal data."
             ],
             "date": ""
+          },
+          {
+            "title": "Neuroscience",
+            "sub_title": [
+              "Exploring the intersection of AI and neuroscience, particularly in diagnosing hereditary and environmental cognitive disorders."
+            ],
+            "date": ""
           }
         ]
       },
@@ -127,17 +115,10 @@
           {
             "title": "Journals",
             "sub_title": [
-              "M. Khaki, A. Amirkhani, \"Heterogeneous Feature Integration for Resilient Financial Forecasting and Deep Reinforcement Learning,\" Computational Economics of Springer.(Under Review)"
+              "M. Khaki, F. Dehghani, \"Unveiling Latent Structures: Personalized Restaurant Recommendations via Machine Learning,\" International Journal of Artificial Intelligence.(Under Review)"
             ],
             "date": ""
-          },
-          {
-            "title": "Journals",
-            "sub_title": [
-              "M. Khaki, F. Dehghani, \"Unveiling Latent Structures: Personalized Restaurant Recommendations via Machine Learning,\" Journal of Artificial Intelligence & Data Mining.(Under Review)"
-            ],
-            "date": ""
-          },
+          }
         ]
       },
       {
@@ -146,7 +127,7 @@
           {
             "title": "",
             "sub_title": [
-              "Ranked in the top 3% out of 14,000 applicants in the Iranian National University Entrance Exam (Konkur), Master's in Computer Engineering (2024)"
+              "Ranked in the top 5% out of 14,000 applicants in the Iranian National University Entrance Exam (Konkur), Master's in Computer Engineering (2024)"
             ],
             "date": ""
           }
@@ -163,9 +144,9 @@
           {
             "title": "AI Frameworks and Tools",
             "sub_title": [
-              "Machine Learning (Proficient)",
-              "Deep Learning (PyTorch) (Proficient)",
-              "Natural Language Processing (Transformers, Hugging Face)"
+              "Machine Learning (NumPy, Pandas, Scikit-learn, Jupyter Notebooks) (Proficient)",
+              "Deep Learning (TensorFlow, PyTorch) (In Progress)",
+              "Reinforcement Learning (Q-Learning, Policy Gradient Methods)"
             ],
             "date": ""
           },
@@ -178,7 +159,8 @@
             "title": "Software and Productivity Tools",
             "sub_title": [
               "Microsoft Office Suite (Word, Exel, PowerPoint)",
-              "LaTeX"
+              "LaTeX",
+              "Visual Studio IDE"
             ],
             "date": ""
           }
