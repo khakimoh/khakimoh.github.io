@@ -42,7 +42,7 @@
         "main_title": "Education",
         "description": [
           {
-            "title": "M.S., Computer engineering",
+            "title": "M.S., Artificial Intelligence",
             "sub_title": [
               "AI Specialization",
               "Iran University of Science and Technology, Tehran, iran"
@@ -59,6 +59,11 @@
       {
         "main_title": "Work experience",
         "description": [
+          {
+            "title": "Teacher Assistant Of Multi-Modal Large Language",
+            "sub_title": ["Tehran, Iran"],
+            "date": "September 2025 - Present"
+          },
           {
             "title": "Researcher",
             "sub_title": ["Tehran, Iran"],
@@ -80,9 +85,23 @@
         "main_title": "Research Interests",
         "description": [
           {
-            "title": "Deep Reinforcement Learning",
+            "title": "Explainability (XAI)",
             "sub_title": [
-              "Focused on Q-Learning and Policy Gradient methods for solving complex decision-making problems."
+              "Investigating methods for explainability in AI systems, with emphasis on separating formal reasoning from content reasoning to improve transparency and trust."
+            ],
+            "date": ""
+          },
+          {
+            "title": "Natural Language Processing",
+            "sub_title": [
+              "Applying NLP techniques to analyze unstructured data, particularly in the financial and medical sectors."
+            ],
+            "date": ""
+          },
+          {
+            "title": "Knowledge Distillation",
+            "sub_title": [
+              "Exploring model compression and distillation techniques to transfer knowledge from large models to efficient, lightweight systems."
             ],
             "date": ""
           },
@@ -99,13 +118,6 @@
               "Developing models to enhance forecasting accuracy for financial and temporal data."
             ],
             "date": ""
-          },
-          {
-            "title": "Neuroscience",
-            "sub_title": [
-              "Exploring the intersection of AI and neuroscience, particularly in diagnosing hereditary and environmental cognitive disorders."
-            ],
-            "date": ""
           }
         ]
       },
@@ -115,19 +127,14 @@
           {
             "title": "Journals",
             "sub_title": [
-              "M. Khaki, F. Dehghani, \"Unveiling Latent Structures: Personalized Restaurant Recommendations via Machine Learning,\" International Journal of Artificial Intelligence.(Under Review)"
+              "M. Khaki, A. Amirkhani, \"Heterogeneous Feature Integration for Resilient Financial Forecasting and Deep Reinforcement Learning,\" Computational Economics Of Springer.(Under Review)"
             ],
             "date": ""
-          }
-        ]
-      },
-      {
-        "main_title": "Awards & Honours",
-        "description": [
+          },
           {
-            "title": "",
+            "title": "Journals",
             "sub_title": [
-              "Ranked in the top 5% out of 14,000 applicants in the Iranian National University Entrance Exam (Konkur), Master's in Computer Engineering (2024)"
+              "M. Khaki, F. Dehghani, \"Unveiling Latent Structures: Personalized Restaurant Recommendations via Machine Learning,\" Journal of Artificial Intelligence & Data Mining.(Under Review)"
             ],
             "date": ""
           }
@@ -144,9 +151,9 @@
           {
             "title": "AI Frameworks and Tools",
             "sub_title": [
-              "Machine Learning (NumPy, Pandas, Scikit-learn, Jupyter Notebooks) (Proficient)",
-              "Deep Learning (TensorFlow, PyTorch) (In Progress)",
-              "Reinforcement Learning (Q-Learning, Policy Gradient Methods)"
+              "Machine Learning (Proficient)",
+              "Deep Learning (PyTorch) (Proficient)",
+              "Natural Language Processing (Transformers, Hugging Face)"
             ],
             "date": ""
           },
@@ -159,8 +166,7 @@
             "title": "Software and Productivity Tools",
             "sub_title": [
               "Microsoft Office Suite (Word, Exel, PowerPoint)",
-              "LaTeX",
-              "Visual Studio IDE"
+              "LaTeX"
             ],
             "date": ""
           }
